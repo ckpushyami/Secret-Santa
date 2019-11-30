@@ -1,6 +1,6 @@
 # Secret Santa
 
-![GIF](https://giphy.com/gifs/christmas-the-office-michael-scott-wranrCRq3f90A)
+![](https://giphy.com/gifs/christmas-the-office-michael-scott-wranrCRq3f90A)
 
 This is a crude R application to create a Secret Santa list that does not have (1) individuals giving to themselves or (2) individuals giving to their partners. These are important because my group of friends from College has a few couples, and for fun they do not want to be paired for this! More cheer for everyone else!
 
