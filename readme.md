@@ -1,5 +1,7 @@
 # Secret Santa
 
+![GIF](https://giphy.com/gifs/christmas-the-office-michael-scott-wranrCRq3f90A)
+
 This is a crude R application to create a Secret Santa list that does not have (1) individuals giving to themselves or (2) individuals giving to their partners. These are important because my group of friends from College has a few couples, and for fun they do not want to be paired for this! More cheer for everyone else!
 
 Then, based on a function slightly altered from the [Ponyexpress Package](https://github.com/ropenscilabs/ponyexpress), the results are emailed out to the participants so that even the host does not know who has who. This include a column for the receiver's address, since we are across the country (and the Pacific Ocean).
