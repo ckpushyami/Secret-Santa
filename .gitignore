@@ -4,6 +4,7 @@
 .Ruserdata
 .csv
 _send-emails.rds
+*.rds
 /Legacy Code/
 *.json
 /Secret Santa - Graham House 2019/
